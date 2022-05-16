@@ -28,4 +28,4 @@ DOC/Distributed Microphone Speech Enhancement.pdf
 5. Use <code>Evaluation</code> to score your enhancement speech
 
 # Contact Me
-If you have ant question of this project, please contact me with wade8954@gmail.com
+If you have any question of this project, please contact me with wade8954@gmail.com
